@@ -11,3 +11,6 @@
 
 
 # Versão 2.0 - Runing this solution on Cloud - GCP
+
+![image](https://user-images.githubusercontent.com/87341232/155524610-dc8a59d1-f6cc-42ed-83e9-7525547ab03d.png)
+
