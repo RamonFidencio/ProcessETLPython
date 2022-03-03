@@ -1,12 +1,12 @@
 # ProcessETLPython
 
-1 - Temos três instâncias de banco de dados PostgreSQL, vou nomeá-las de instância A, instância B e instância C, no fim do e-mail será disponibilizado dados para realizar as conexões.
+1 - We have three PostgreSQL database instances, I will name them instance A, instance B and instance C.
 
-2 - Na instância A temos a tabela venda e na instância B temos as tabelas funcionario e categoria.
+2 - In instance A we have the sales table and in instance B we have the tables employee and category.
 
-3 - O objetivo desse desafio é criar uma ou várias tabelas na instância C, na estrutura que você achar melhor, onde estas tabelas contenham todas as informações de vendas, funcionários e categorias.
+3 - The goal of this challenge is to create one or more tables in instance C, in the structure you find best, where these tables contain all the information of sales, employees and categories.
 
-4 - Um requisito desse desafio é que essa movimentação de dados da instância A e B para instância C seja feita diariamente, pois foi informado que as tabelas recebem dados novos periodicamente e assim os dados da instância C não vão ficar desatualizados.
+4 - A requirement of this challenge is that this movement of data from instance A and B to instance C must be done on a daily basis, because you have been informed that the tables receive new data periodically and therefore the data in instance C will not be up to date.
 
 
 
