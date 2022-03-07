@@ -34,9 +34,13 @@ For example:
 ### I use the code: https://github.com/RamonFidencio/ProcessETLPython/blob/main/teste.py
 The steps:
 1 - Connect on istance_C and research the biggest id entered
+
 2 - Connect on instance_B and bring the tables employees and category
+
 3 - Connect on instance_A using the largest ID from instance_C I look for the largest ones in instance_A
+
 4 - I prepare the data to be inserted in the instance_C
+
 5 - Insert on instance_C
 
 ## Used the Windows Task Scheduler to run my code every day
