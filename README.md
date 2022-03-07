@@ -1,4 +1,4 @@
-# ProcessETLPython
+# ETL Process Python
 
 1 - We have three PostgreSQL database instances, I will name them instance A, instance B and instance C.
 ![image](https://user-images.githubusercontent.com/87341232/157033959-7ce66174-4d5d-4ea7-b37e-fba68ef735b3.png)
@@ -10,6 +10,8 @@
 
 
 3 - The goal of this challenge is to create one or more tables in instance C, in the structure you find best, where these tables contain all the information of sales, employees and categories.
+
+
 ![image](https://user-images.githubusercontent.com/87341232/157034174-9fcb435e-7bb9-47e7-a672-6f614bdfc425.png)
 
 
@@ -23,7 +25,7 @@ For example:
 ![image](https://user-images.githubusercontent.com/87341232/157035319-146fae12-337f-49d1-a35c-bd4cd69994f2.png)
 ## Connecting on instace_B
 ![image](https://user-images.githubusercontent.com/87341232/157035463-69e6032e-e349-411c-9206-63588724a039.png)
-### PANDAS helps me to make the task more visual and process the tables more efficiently 
+## PANDAS helps me to make the task more visual and process the tables more efficiently 
 ![image](https://user-images.githubusercontent.com/87341232/157035671-207cb185-7fd1-4fe3-8b05-9df8d146aef9.png)
 ## Connecting on instace_C and creating the new table
 ![image](https://user-images.githubusercontent.com/87341232/157036876-a5927174-aea2-4f8e-80c7-b515c7cef2fd.png)
