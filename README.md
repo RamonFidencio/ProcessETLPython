@@ -1,15 +1,15 @@
 # ETL Process Python
 
-1 - We have three PostgreSQL database instances, I will name them instance A, instance B and instance C.
+1 - I have three PostgreSQL database instances, I will name them instance A, instance B and instance C.
 ![image](https://user-images.githubusercontent.com/87341232/157033959-7ce66174-4d5d-4ea7-b37e-fba68ef735b3.png)
 
 
-2 - In instance A we have the sales table and in instance B we have the tables employee and category.
+2 - In instance A  have the sales table and in instance B  have the tables employee and category.
 ![image](https://user-images.githubusercontent.com/87341232/157034082-d1935158-6b9a-472d-868d-f35aeb9b993f.png)
 
 
 
-3 - The goal of this challenge is to create one or more tables in instance C, in the structure you find best, where these tables contain all the information of sales, employees and categories.
+3 - The goal of this challenge is to create one table in instance C,  where these tables contain all the information of sales, employees and categories.
 
 
 ![image](https://user-images.githubusercontent.com/87341232/157034174-9fcb435e-7bb9-47e7-a672-6f614bdfc425.png)
@@ -18,7 +18,7 @@
 4 - A requirement of this challenge is that this movement of data from instance A and B to instance C must be done on a daily basis, because you have been informed that the tables receive new data periodically and therefore the data in instance C will not be up to date.
 
 # Version 1.0 - Ruining Local.
-I chose Python and its libraries to solve this challenge, because of the low cost and processing speed for small lines.
+I chose Python and its libraries to solve this challenge, because of the low cost and processing speed for small lines. (less than 5M)
 Using the lib psycopg2 to connect on Postgres databases
 For example:
 ## Connecting on instace_A
