@@ -5,6 +5,7 @@
 
 
 2 - In instance A  have the sales table and in instance B  have the tables employee and category.
+
 ![image](https://user-images.githubusercontent.com/87341232/157034082-d1935158-6b9a-472d-868d-f35aeb9b993f.png)
 
 
